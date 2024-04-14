@@ -1,2 +1,2 @@
 # C-Programlama
-Projeler
+Proje
